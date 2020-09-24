@@ -1,6 +1,7 @@
 # Admob-Template
- ==================================
+
 FOURTY FOURTY GAME DEVELOPERS 
+-----------------------------------
  
  AD MOB TEMPLATE
  ==================================
@@ -13,8 +14,10 @@ FOURTY FOURTY GAME DEVELOPERS
  * All the test Id are already loaded.
  * Banner ad position can be changed in the inspector under "banner ad properties"
  ==================================
+
 Thanks for using the template, please support and follow us on 
 Github: https://github.com/Mr-FourtyFourty?tab=repositories
 LinkedIn:https://www.linkedin.com/company/68577897
 Follow us For more updates
+ 
  ==================================
