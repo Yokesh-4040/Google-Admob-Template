@@ -13,11 +13,11 @@ FOURTY FOURTY GAME DEVELOPERS
  * In case testing just you need to check the testing check box in inspector.
  * All the test Id are already loaded.
  * Banner ad position can be changed in the inspector under "banner ad properties"
- ==================================
+
 
 Thanks for using the template, please support and follow us on 
 Github: https://github.com/Mr-FourtyFourty?tab=repositories
 LinkedIn:https://www.linkedin.com/company/68577897
 Follow us For more updates
  
- ==================================
+
