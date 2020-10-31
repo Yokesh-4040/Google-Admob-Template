@@ -17,7 +17,7 @@ FOURTY FOURTY GAME DEVELOPERS
 
 Thanks for using the template, please support and follow us on 
 Github: https://github.com/Mr-FourtyFourty?tab=repositories
-LinkedIn:https://www.linkedin.com/company/68577897
+LinkedIn:https://www.linkedin.com/company/fourty-fourty
 Follow us For more updates
  
 
