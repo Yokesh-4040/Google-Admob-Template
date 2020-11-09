@@ -1,10 +1,7 @@
-# Admob-Template
+# Google-Admob-Template
 
 FOURTY FOURTY GAME DEVELOPERS 
 -----------------------------------
- 
- AD MOB TEMPLATE
- ==================================
  * IMPORTANT NOTES:
  * This script can be used to check weather ads are working properly.
  * Just Request for the ads.
