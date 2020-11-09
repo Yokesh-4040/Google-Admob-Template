@@ -20,8 +20,11 @@ FOURTY FOURTY GAME DEVELOPERS
  * Fixed IOS banner Ads not showing.
 
 Thanks for using the template, please support and follow us on 
+
 Github: https://github.com/Mr-FourtyFourty?tab=repositories
+
 LinkedIn:https://www.linkedin.com/company/fourty-fourty
+
 Follow us For more updates
  
 
