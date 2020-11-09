@@ -15,6 +15,7 @@ FOURTY FOURTY GAME DEVELOPERS
  
  New Update V 3.2.1
  * Banner ad position can be changed in the inspector under "banner ad properties".
+ 
  New Update V 3.2.2
  * Fixed IOS banner Ads not showing.
 
